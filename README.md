@@ -50,7 +50,7 @@ This project presents an interactive Power BI dashboard built to analyze YouTube
 * Pie Chart: Audience distribution
 * Bar Chart: Top 10 channels by engagement efficiency
 * Decomposition Tree: Rank-wise category analysis
-![Dashboard Preview](dashboard.jpg)
+![Dashboard Preview](Dashboard.png)
 ---
 
 ## 🎯 Key Insights
